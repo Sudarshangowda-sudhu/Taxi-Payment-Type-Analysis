@@ -17,7 +17,6 @@ To analyze the relationship between **total fare** and **payment method** using 
 The goal is to identify whether **card payments generate higher fares** than cash.
 
 ---
-
 ## 📊 **DATASET INFORMATION**
 
 - **Source:** NYC Yellow Taxi Trip Data (January 2020)  
