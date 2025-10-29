@@ -87,8 +87,6 @@ as such trips typically yield **higher fares and longer rides**.
 
 ## 📁 **PROJECT STRUCTURE**
 Taxi_Payment_Type_Analysis/
-- data/
-  - yellow_tripdata_2020-01.csv
 - notebooks/
   - Taxi_Payment_Type_Analysis.ipynb
 - reports/
